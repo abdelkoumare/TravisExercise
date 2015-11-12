@@ -1,6 +1,6 @@
 public class Order {
   private String name;
-  private float price;
+  private float price
 
   public Order(String name, float price) {
     this.name = name;
